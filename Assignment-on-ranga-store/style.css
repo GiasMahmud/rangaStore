@@ -3,7 +3,7 @@ body {
     font-family: "Montserrat", sans-serif;
   }
   
-  /*-------------------- Heading Section start---------------*/
+  /*-------------------- Heading Section start here---------------*/
   .heading-name {
     margin-top: 10px;
     
@@ -36,8 +36,8 @@ body {
     margin-left: 20px;
   }
   
-  /*--------------------------- Heading Section End  ----------------------*/
-  /*--------------------------- Main Section Start  ----------------------*/
+
+  /*--------------------------- Main Section Start here  ----------------------*/
   #all-products {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -99,7 +99,7 @@ body {
   }
   
 
-  /*--------------------------- Responsive Section Start  ----------------------*/
+  /*--------------------------- Responsive Section Start here ----------------------*/
   @media only screen and (max-width: 768px) {
     #all-products {
       display: grid;
